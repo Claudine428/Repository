@@ -22,6 +22,7 @@ ufw status verbose
 
 https://meson.network/
 
+#INSTALL
 1- Login
 2- Nodes
 3- Copy "download & install" path in Linux 64 bit and paste putty to install
