@@ -8,6 +8,8 @@ ufw status verbose
 
 #status: inactive!
 
+#Tst Run
+
 apt install ufw -y
 ufw allow ssh 
 ufw allow https 
