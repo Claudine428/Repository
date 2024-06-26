@@ -6,7 +6,7 @@ sudo apt-get install jq unzip -y
 
 ufw status verbose
 
-#status: active
+#status: deactive
 
 apt install ufw -y
 ufw allow ssh 
