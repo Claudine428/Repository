@@ -1,7 +1,5 @@
 sudo apt-get update -y && sudo apt-get install wget -y
 
-#Guide Code:
-
 sudo apt-get install jq unzip -y
 
 ufw status verbose
