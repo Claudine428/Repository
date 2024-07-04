@@ -2,7 +2,7 @@ sudo apt-get update -y && sudo apt-get install wget -y
 
 sudo apt-get install jq unzip -y
 
-#ufw status/
+#ufw status
 
 ufw status verbose
 
