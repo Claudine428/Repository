@@ -11,7 +11,7 @@ ufw allow http
 sudo ufw allow 443
 ufw enable
 
-#ufw enable : Enter Bezan!
+#ufw enable : Enter
 #Enter 78 then exit
 #Firewall is active and enable on system startup!
 
