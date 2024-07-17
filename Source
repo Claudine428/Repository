@@ -39,3 +39,12 @@ ufw allow https
 ufw allow http
 sudo ufw allow 443
 ufw enable
+
+
+1- Login
+2- Nodes
+3- Copy "download & install" path in Linux 64 bit and paste putty to install
+4- Copy "set token and config" path in Linux 64 bit and paste putty to install
+5- Copy "start service" path in Linux 64 bit and paste putty to install
+6- Copy "download" path in Linux 64 bit and paste putty to install
+#Tst Run
