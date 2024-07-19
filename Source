@@ -30,7 +30,7 @@ https://meson.network/
 #Tst Run
 |Best
 
-
+#ufw enable : ok
 ufw status verbose
 
 apt install ufw 
