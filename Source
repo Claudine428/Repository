@@ -17,7 +17,6 @@ ufw enable
 
 ufw status verbose
 
-https://meson.network/
 
 
 
