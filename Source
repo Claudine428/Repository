@@ -1,4 +1,4 @@
-sudo apt-get update -y && sudo apt-get install wget -y
+sudo apt-get update -y && sudo apt-get install wget -y -w
 
 sudo apt-get install jq unzip
 
