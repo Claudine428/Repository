@@ -29,7 +29,7 @@ ufw status verbose
 #Tst Run
 
 
-#ufw enable : ok
+#ufw enable : OK
 ufw status verbose
 
 apt install ufw 
