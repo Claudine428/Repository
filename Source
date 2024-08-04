@@ -25,6 +25,7 @@ ufw status verbose
 6- Copy "download" path in Linux 64 bit and paste putty to install
 #Tst Run
 1- Login
+apt install ufw 
 
 
 #ufw enable : OK
