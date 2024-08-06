@@ -27,6 +27,8 @@ ufw status verbose
 1- Login
 apt install
 
+#ufw enable 
+
 
 #ufw enable : OK
 ufw status verbose
