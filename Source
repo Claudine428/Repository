@@ -11,7 +11,7 @@ ufw allow http
 sudo ufw allow 445
 ufw enable
 
-#ufw enable 
+#ufw disable 
 #Enter 78 then exit
 #Firewall is active and enable on system startup!
 
