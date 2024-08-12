@@ -30,7 +30,7 @@ apt install
 #ufw enable 
 
 
-#ufw enable : OK
+#ufw enable : Yes
 ufw status verbose
 
 apt install ufw 
