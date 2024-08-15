@@ -15,7 +15,7 @@ ufw disable
 #Enter 78 then exit
 #Firewall is active and enable on system startup!
 
-ufw status verbose
+ufw status deactive
 
 1- Begin
 2- Nodes
