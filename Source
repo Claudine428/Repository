@@ -24,7 +24,6 @@ ufw status deactive
 5- Copy "start service" path in Linux 64 bit and paste putty to install
 6- Copy "download" path in Linux 64 bit and paste putty to install
 #Tst Run
-1- Login
 apt install
 
 #ufw enable 
