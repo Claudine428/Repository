@@ -12,7 +12,7 @@ sudo ufw allow 445
 ufw enable
 
 #ufw disable 
-#Enter 78 then exit
+#Enter 95 then exit
 #Firewall is active and enable on system startup!
 
 ufw status deactive
