@@ -30,8 +30,6 @@ apt
 
 
 #ufw enable : Active
-
-
 ufw status verbose
 
 apt install ufw 
