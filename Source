@@ -39,7 +39,7 @@ ufw allow http
 sudo ufw allow 443
 ufw enable
 
-//
+
 1- Login
 2- Nodes
 3- Copy "install" path in Linux 64 bit and paste putty to install
