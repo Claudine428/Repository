@@ -53,7 +53,6 @@ ufw enable
 6- Copy "download" path in Linux 64 bit and paste putty to install
 #Tst
 
-
 apt install ssh
 ufw allow ssh 
 ufw allow https 
