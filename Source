@@ -27,7 +27,6 @@ ufw status deactive
 apt
 
 #ufw disable
-;
 #ufw enable : Active
 ufw status verbose
 
