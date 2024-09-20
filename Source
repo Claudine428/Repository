@@ -1,6 +1,6 @@
 sudo apt-get update -y && sudo apt-get install wget 
 
-sudo apt-get install jqg unzip
+sudo apt-get install jqg unzip 
 
 ufw status verbose
 
