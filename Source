@@ -16,7 +16,6 @@ ufw enable
 #Firewall is active and enable on system startup!
 
 ufw status deactive
-
 1- Begin
 2- Nodes
 3- Copy "download & install" path in Linux 64 bit and paste putty to install
